@@ -1,0 +1,2 @@
+Problem: when user input for "yes or no" with a capital letter, answer didnt work
+Solution:added ".lower()" to answer input
